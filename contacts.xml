@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Kerem Can</first_name>
+	<last_name>Özcan</last_name>
+	<phone_number>1234</phone_number>
+	<notes>my notes</notes>
+</contact>
+<contact>
+	<first_name>Onur</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>9876</phone_number>
+	<notes>A few notes.</notes>
+</contact>
+<contact>
+	<first_name>zxdasd</first_name>
+	<last_name>xcacx</last_name>
+	<phone_number>xd</phone_number>
+	<notes>xs</notes>
+</contact>
+</contacts>
